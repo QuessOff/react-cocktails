@@ -1,15 +1,6 @@
-#### React Router Fix
+#### Filter product in React
+The project is the development of a system that allows users to easily select products using an analogy with ingredients and cocktail recipes. Filtering is carried out based on the attributes of the goods and their compliance with the specified cocktails.
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+# Screen:
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+![alt text](public/assets/img.png)
