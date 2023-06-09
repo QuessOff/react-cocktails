@@ -3,4 +3,4 @@ The project is the development of a system that allows users to easily select pr
 
 # Screen:
 
-![alt text](public/assets/img.png)
+![alt text](public/img.png)
